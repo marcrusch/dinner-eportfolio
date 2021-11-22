@@ -38,11 +38,14 @@ export default function Nav() {
                     border: none;
                     background-color: #fff0;
                     cursor: pointer;
+                    font-size: 16px;
+                    font-weight: 700;
                 }
 
                 .nav__title {
                     margin: 0;
                     cursor: pointer;
+                    font-size: 32px;
                 }
             `}</style>
         </>
