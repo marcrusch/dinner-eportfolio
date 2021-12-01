@@ -1,0 +1,44 @@
+.main-item {
+    height: 250px;
+    width: 100vw;
+    display: flex;
+    background-color: #222;
+}
+
+.main-item__title-child {
+    flex: 5;
+    background-color: #000;
+    height: 100%;
+    position: relative;
+}
+
+.main-item__child--small {
+    flex: 3;
+}
+
+.main-item__title {
+    color: #fff;
+    font-size: 72px;
+    position: absolute;
+    top: 50%;
+    left: 25px;
+    transform: translate(0, -50%);
+    margin: 0;
+}
+
+.main-item__text-child {
+    flex: 5;
+    background-color: #F06449;
+    position: relative;
+    text-align: right;
+}
+
+.main-item__text {
+    max-width: 80%;
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    right: 25px;
+    transform: translate(0, -50%);
+    margin: 0;
+}

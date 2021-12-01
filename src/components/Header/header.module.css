@@ -1,0 +1,20 @@
+.header {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header__hero {
+    height: 100%;
+    background-color: #ddd;
+    position: relative;
+}
+
+.header__title {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 54px;
+}

@@ -1,0 +1,38 @@
+.nav--header {
+    background-color: #f06449;
+}
+
+.nav--footer {
+    background-color: #e3e3e3;
+    position: relative;
+}
+.nav__item {
+    display: inline;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.nav__title-wrapper {
+    display: inline-block;
+}
+
+.nav__item-button {
+    border: none;
+    background-color: #fff0;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.nav__title {
+    margin: 0;
+    cursor: pointer;
+    font-size: 32px;
+}
+
+.nav__item--right {
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translate(0, -50%);
+}
