@@ -1,0 +1,26 @@
+.technology-item {
+    width: 100%;
+    display: flex;
+    padding: 50px;
+}
+
+.technology-item__image-container {
+    flex: 2;
+}
+
+.technology-item__content-container {
+    flex: 3;
+    background-color: #000;
+    padding: 20px;
+}
+
+.technology-item__content-title {
+    color: #f06449;
+    font-size: 30px;
+    margin: 0;
+}
+
+.technology-item__content-text {
+    color: #fff;
+    margin: 0;
+}
