@@ -21,13 +21,12 @@ export default function Home() {
         <MainItem variant="title" content="simpler payment." />
         <MainItem
           variant="text"
-          content="Using the XRP Ledger, payment is now easier than ever. Many restaurants already accept payment directly through the dinner app. If you're "
+          content="Using the XRP Ledger, payment is now easier than ever. We are planning to work together with restaurants to have the ability to order and pay directly through the app."
         />
         <MainItem variant="title" content="save time." />
         <MainItem
           variant="text"
-          content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt, also habe ich den Hintergrund eingefärbt. Nun finde ich, dass das Logo auch einprägsam ist.  
-Ich werde jedoch an einigen Stellen, wo ein schlichteres Logo benötigt wird, folgendes Logo verwenden:
+          content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt
 "
         />
       </main>

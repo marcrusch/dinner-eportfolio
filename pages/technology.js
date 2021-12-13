@@ -17,18 +17,18 @@ export default function Technology() {
         <TechnologyItem
           title="app."
           content="asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös"
-          imgSrc="/react-native-logo.png"
+          imgSrc="https://piwigo.marcrusch.ch/_data/i/upload/2021/12/13/20211213210847-34398aed-la.png"
           imageLeft
         />
         <TechnologyItem
           title="data storage."
           content="asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös"
-          imgSrc="/firebase-logo.png"
+          imgSrc="https://piwigo.marcrusch.ch/i.php?/upload/2021/12/13/20211213210848-ae2023f3-la.png"
         />
         <TechnologyItem
           title="payment."
           content="asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös klföjask fkasdkjflajsdfjlsdjkfl asklklaös asdjklfsd klföjask fkasdkjflajsdfjlsdjkfl asklklaös"
-          imgSrc="/xrpledger.svg"
+          imgSrc="https://piwigo.marcrusch.ch/upload/2021/12/13/20211213211724-9f753bd8.png"
           imageLeft
         />
       </main>

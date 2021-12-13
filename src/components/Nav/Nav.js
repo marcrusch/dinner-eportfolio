@@ -19,7 +19,10 @@ export default function Nav({ variant }) {
               </h2>
             )}
             {variant === "footer" && (
-              <img src="/dinner-logo.svg" height="75px" />
+              <img
+                src="https://piwigo.marcrusch.ch/upload/2021/12/13/20211213212541-4b2c1f14.png"
+                height="75px"
+              />
             )}
           </div>
           <div className={styles["nav__item"]}>

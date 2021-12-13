@@ -36,3 +36,10 @@
     top: 50%;
     transform: translate(0, -50%);
 }
+
+
+@media screen and (max-width: 800px) {
+    .nav__item--right {
+        display: none;
+    }
+}

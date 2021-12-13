@@ -24,3 +24,14 @@
     color: #fff;
     margin: 0;
 }
+
+@media screen and (max-width: 800px) {
+    .technology-item {
+        display: block;
+        padding: 25px;
+    }
+
+    .technology-item__image-container {
+        display: none;
+    }
+}
