@@ -10,9 +10,12 @@ export default function Mission() {
       <Head>
         <title>dinner.</title>
         <meta name="description" content="Simpler planning." />
-        <link rel="icon" href="/dinner-logo.svg" />
+        <link rel="icon" href="/" />
       </Head>
-      <Header title="our mission." />
+      <Header
+        title="our mission."
+        bgImage="https://piwigo.marcrusch.ch/upload/2021/12/14/20211214203302-b2c479bc.png"
+      />
       <main className={styles["mission-main"]}>
         <div className={styles["mission-main__content"]}>
           <MissionItem

@@ -9,9 +9,12 @@ export default function Home() {
       <Head>
         <title>dinner.</title>
         <meta name="description" content="Simpler planning." />
-        <link rel="icon" href="/dinner-logo.svg" />
+        <link rel="icon" href="/" />
       </Head>
-      <Header title="Welcome." />
+      <Header
+        title="Welcome."
+        bgImage="https://piwigo.marcrusch.ch/upload/2021/12/14/20211214191111-b0329437.jpg"
+      />
       <main>
         <MainItem variant="title" content="get together." />
         <MainItem

@@ -17,6 +17,13 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 54px;
+    color: #ffffff;
+}
+
+.header__hero-overlay {
+    height: 100%;
+    width: 100%;
+    background-color: #00000077;
 }
 
 @media screen and (max-width: 800px) {

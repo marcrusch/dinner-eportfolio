@@ -10,9 +10,14 @@ export default function Technology() {
       <Head>
         <title>dinner.</title>
         <meta name="description" content="Simpler planning." />
-        <link rel="icon" href="/dinner-logo.svg" />
+        <link rel="icon" href="/" />
       </Head>
-      <Header title="technology." />
+      <Header
+        title="technology."
+        bgImage={
+          "https://piwigo.marcrusch.ch/i.php?/upload/2021/12/14/20211214191110-7a133dd3-xl.png"
+        }
+      />
       <main className={styles["technology"]}>
         <TechnologyItem
           title="app."
