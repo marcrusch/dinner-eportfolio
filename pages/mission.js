@@ -14,7 +14,7 @@ export default function Mission() {
       </Head>
       <Header
         title="our mission."
-        bgImage="https://piwigo.marcrusch.ch/upload/2021/12/14/20211214203302-b2c479bc.png"
+        bgImage="https://piwigo.marcrusch.ch/i.php?/upload/2021/12/16/20211216164622-212c064f-la.jpg"
       />
       <main className={styles["mission-main"]}>
         <div className={styles["mission-main__content"]}>

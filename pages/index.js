@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <Header
         title="Welcome."
-        bgImage="https://piwigo.marcrusch.ch/upload/2021/12/14/20211214191111-b0329437.jpg"
+        bgImage="https://piwigo.marcrusch.ch/upload/2021/12/16/20211216150937-a9fcc221.jpg"
       />
       <main>
         <MainItem variant="title" content="get together." />
