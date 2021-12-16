@@ -30,8 +30,7 @@ export default function Home() {
         <MainItem variant="title" content="save time." />
         <MainItem
           variant="text"
-          content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt
-"
+          content="Since planning events with dinner is so easy, you're able to save a lot of time. Restaurant selection, inviting your friends and payment can all be handled inside of dinner."
         />
         <div className={styles["video"]}>
           <iframe

@@ -20,18 +20,15 @@ export default function Mission() {
         <div className={styles["mission-main__content"]}>
           <MissionItem
             title="simplify planning."
-            content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt, also habe ich den Hintergrund eingefärbt. Nun finde ich, dass das Logo auch einprägsam ist.  
-Ich werde jedoch an einigen Stellen, wo ein schlichteres Logo benötigt wird, folgendes Logo verwenden:"
+            content="Planning events with dinner is very easy. Dinner combines a calendar, restaurant selection and payment. You can even order food directly through the app, so there's no need for a menu when you're in the restaurant."
           />
           <MissionItem
-            title="simplify planning."
-            content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt, also habe ich den Hintergrund eingefärbt. Nun finde ich, dass das Logo auch einprägsam ist.  
-Ich werde jedoch an einigen Stellen, wo ein schlichteres Logo benötigt wird, folgendes Logo verwenden:"
+            title="cashless payment."
+            content="Through dinner, payment is easier than ever. Automatically split the bill and pay directly through the app."
           />
           <MissionItem
-            title="simplify planning."
-            content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt, also habe ich den Hintergrund eingefärbt. Nun finde ich, dass das Logo auch einprägsam ist.  
-Ich werde jedoch an einigen Stellen, wo ein schlichteres Logo benötigt wird, folgendes Logo verwenden:"
+            title="make people happy."
+            content="Our main mission is to make people happy. It's more important than ever to get together with your loved ones. Wheter you want to go bowling, go to dinner or play snooker, dinner can do it all."
           />
         </div>
       </main>

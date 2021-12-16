@@ -1,5 +1,6 @@
 import { useRouter } from "next/router";
 import styles from "./nav.module.css";
+import Image from "next/image";
 
 export default function Nav({ variant }) {
   const router = useRouter();
@@ -19,9 +20,10 @@ export default function Nav({ variant }) {
               </h2>
             )}
             {variant === "footer" && (
-              <img
+              <Image
                 src="https://piwigo.marcrusch.ch/upload/2021/12/13/20211213212541-4b2c1f14.png"
                 height="75px"
+                width="75px"
               />
             )}
           </div>
