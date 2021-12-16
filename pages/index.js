@@ -2,6 +2,7 @@ import Head from "next/head";
 import Footer from "../src/components/Footer/Footer";
 import Header from "../src/components/Header/Header";
 import MainItem from "../src/components/MainItem/MainItem";
+import styles from "./index.module.css";
 
 export default function Home() {
   return (
@@ -32,6 +33,17 @@ export default function Home() {
           content="Ich finde, es sieht sehr simpel und elegant aus, ich konnte also ein Logo nach meinen Vorschriften erstellen. Ich habe mir zuerst überlegt den Hintergrund des Logos weiss zu lassen, jedoch denke ich, dass die Einprägsamkeit eines Logos auch stark von der Farbe abhängt
 "
         />
+        <div className={styles["video"]}>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/0AH6tkDCZ2k"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe>
+        </div>
       </main>
       <Footer />
     </>
